@@ -3,8 +3,11 @@
    •	Analyzed and web scraped amazons product information engaging the price, the delivery charge, materials and other product related information using BeautifulSoup         with PYTHON. 
    •	Maintained the product information in a CSV format.
 
+2) Automating Crypto Website API Pull Using Python 
+   •  Automate API Extraction + Appending Data
 
-2) COVID 19 Data Exploration and Visualization using SQL and Tableau:  
+
+3) COVID 19 Data Exploration and Visualization using SQL and Tableau:  
    •	Analyzed COVID-19 data using SQL server and visualize it with Tableau dashboards.
    •	Extracted the data of percentage of death in a particular country.
    •	Reviewed the percentage of population infected with Covid, countries with highest infection rate compared to population.
@@ -13,7 +16,7 @@
    Link to Tableau Profile: https://public.tableau.com/app/profile/shuvra.roy
 
 
-3) Nashville Housing Data Cleaning:
+4) Nashville Housing Data Cleaning:
   • Cleaning Data in SQL Queries
 
 
